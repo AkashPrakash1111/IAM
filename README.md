@@ -1,6 +1,7 @@
 # EX - 6 Implementation Of Identity Management (Amazon IAM) For Your Team
 
----
+## NAME: AKASH PRAKASH
+## REG NO: 212224240008
 
 ## Aim
 
